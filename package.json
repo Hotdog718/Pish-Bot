@@ -1,0 +1,18 @@
+{
+  "name": "pish-bot",
+  "version": "1.0.0",
+  "description": "A bot created for Pish's Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hotdog",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.21.0",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.8"
+  }
+}
